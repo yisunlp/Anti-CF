@@ -1,0 +1,7 @@
+{
+    "download/noiseQA-syn": ["noiseQA-syn.asr.json", "noiseQA-syn.keyboard.json", "noiseQA-syn.translation.json"],
+    "download/noiseQA-na": ["noiseQA-na.asr.json", "noiseQA-na.keyboard.json", "noiseQA-na.translation.json"],
+    "download/XQuAD": ["xquad.en.json", "xquad.es.json", "xquad.de.json", "xquad.el.json", "xquad.ru.json","xquad.tr.json", "xquad.ar.json", "xquad.vi.json", "xquad.th.json", "xquad.zh.json","xquad.hi.json"],
+    "download/MLQA": ["mlqa_en.json", "mlqa_es.json", "mlqa_de.json", "mlqa_ar.json", "mlqa_hi.json","mlqa_vi.json", "mlqa_zh.json"],
+    "download/MRQA": ["HotpotQA-dev-from-MRQA.json", "NaturalQuestionsShort-dev-from-MRQA.json","NewsQA-dev-from-MRQA.json", "SearchQA-dev-from-MRQA.json", "TriviaQA-web-dev-from-MRQA.json"]
+}
